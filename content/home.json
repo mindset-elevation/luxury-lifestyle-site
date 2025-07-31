@@ -1,19 +1,19 @@
 {
   "title": "Welcome to Our World of Luxury",
-  "subtitle": "Experience elegance and refined living like never before.",
+  "subtitle": "Immerse yourself in elegance and refined living with bespoke services and curated experiences.",
   "heroImage": "/images/hero.png",
   "sections": [
     {
       "title": "Our Philosophy",
-      "text": "At Luxury Lifestyle, we believe in the art of refined living. Our passion is to bring you the most exquisite experiences and curated lifestyles that elevate every moment."
+      "text": "At Luxury Lifestyle, we believe in the art of refined living. Our passion is to bring you the most exquisite experiences and products that epitomize elegance, comfort, and exclusivity. Whether at home or abroad, our team is dedicated to elevating every moment of your life."
     },
     {
       "title": "Services",
-      "text": "From bespoke interior design to personalized travel itineraries, we cater to your every need, ensuring a seamless journey into luxury and sophistication."
+      "text": "From bespoke interior design to personalized travel itineraries and concierge shopping, we cater to your every need, ensuring your lifestyle reflects your highest aspirations."
     },
     {
       "title": "Curated Experiences",
-      "text": "Discover our curated collection of high-end experiences, products and inspiration that embody the essence of elegance, comfort and timeless beauty."
+      "text": "Discover our curated collection of high-end experiences, products, and inspiration that embody the essence of sophistication. From private yacht charters to unique cultural journeys, we connect you with the extraordinary."
     }
   ]
 }
