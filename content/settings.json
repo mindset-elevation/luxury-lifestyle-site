@@ -1,10 +1,13 @@
 {
   "siteTitle": "Luxury Lifestyle",
   "siteDescription": "A curated experience for the refined individual.",
+    "themeMode": "light",
+
   "theme": {
-    "primary": "#0f172a",
-    "secondary": "#8b5cf6",
-    "fontFamily": "Cormorant Garamond, serif"
+ "  "primary": "#0f172a",
+
+  "secondary": "#8b5cf6",
+  "fontFamily": "Playfair Display, serif"
   },
   "gaTrackingId": "",
   "newsletter": {
