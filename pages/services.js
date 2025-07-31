@@ -4,7 +4,7 @@ import services from '../content/services.json';
 // Services page to showcase luxury lifestyle services
 function ServicesPage({ services }) {
   return (
-    <Layout>
+    <Layout title="Our Services" description="Discover our exclusive services">
       <section className="py-16 px-4 max-w-6xl mx-auto">
         <h1 className="text-4xl font-bold mb-8 text-center">Our Services</h1>
         <div className="grid gap-8 md:grid-cols-3">
