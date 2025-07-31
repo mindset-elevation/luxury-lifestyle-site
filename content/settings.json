@@ -4,7 +4,7 @@
     "themeMode": "light",
 
   "theme": {
- "  "primary": "#0f172a",
+"primary": "#0f172a",
 
   "secondary": "#8b5cf6",
   "fontFamily": "Playfair Display, serif"
