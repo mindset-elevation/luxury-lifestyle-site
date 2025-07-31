@@ -5,7 +5,7 @@ This repository contains the source code for a luxury‑themed website built wit
 ## Structure overview
 
 ```
-luxury-site/
+luxury-lifestyle-site/
 ├─ pages/                 # Next.js pages (home, about, blog, contact, etc.)
 │  ├─ api/sitemap.js      # Dynamic sitemap generator
 │  └─ blog/               # Blog listing and individual posts
@@ -96,7 +96,7 @@ Add your own images to `public/images/` and reference them in the JSON files or 
 This project is configured for deployment on Vercel:
 
 1. **Install dependencies and run locally** (optional).  In an environment with internet access, run `npm install` followed by `npm run dev`.
-2. **Commit your changes to GitHub**.  Create a new repository and push the entire `luxury-site` folder.
+2. **Commit your changes to GitHub**.  Create a new repository and push the entire `luxury-lifestyle-site` folder.
 3. **Deploy on Vercel**.  In your Vercel dashboard, choose “New Project”, import your GitHub repository and use the default settings.  Vercel will install dependencies and build the project automatically.
 4. **Set environment variables** (optional).  If you configure analytics or other services, add the appropriate environment variables in Vercel’s settings.
 
