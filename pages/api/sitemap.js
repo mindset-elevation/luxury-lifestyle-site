@@ -8,7 +8,7 @@ export default async function handler(req, res) {
   const baseUrl = `${protocol}://${host}`;
 
   // List of static pages to include in the sitemap
-  const staticPages = ['', '/about', '/contact', '/blog'];
+const staticPages = ['', '/about', '/contact', '/blog'];
   const pagesXml = staticPages
     .map((page) => {
       return `<url><loc>${baseUrl}${page}</loc></url>`;
